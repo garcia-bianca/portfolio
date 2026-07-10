@@ -45,5 +45,7 @@ Em desenvolvimento. Novos projetos e melhorias visuais serão adicionados gradua
 ## Contato
 
 - GitHub: https://github.com/biancaofficial-blip
-- LinkedIn: coloque-aqui-seu-link-correto
+- LinkedIn: https://www.linkedin.com/in/garcia-bianca
 - E-mail: bianca_garcia@outlook.com
+
+Projeto em atualização contínua.
